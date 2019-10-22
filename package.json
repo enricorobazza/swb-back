@@ -1,0 +1,19 @@
+{
+  "name": "swb-back",
+  "version": "1.0.0",
+  "description": "NodeJS back end for swb React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enricorobazza/swb-back.git"
+  },
+  "author": "Enrico Robazza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enricorobazza/swb-back/issues"
+  },
+  "homepage": "https://github.com/enricorobazza/swb-back#readme"
+}
